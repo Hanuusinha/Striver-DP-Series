@@ -1,1 +1,1 @@
-# Striver-s-DP-Series
+# Striver-DP-Series
